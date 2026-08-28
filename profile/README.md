@@ -2,7 +2,7 @@
 
 # Nicolet FEAR Programing
 
-## Passion - Inovation - Relationships
+## Passion - Innovation - Relationships
 
 > Since 2013
 
